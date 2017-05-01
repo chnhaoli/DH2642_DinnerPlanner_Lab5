@@ -5,7 +5,7 @@ DH2642 Interaction Programing and Dynamic Wed - Lab 5 - HTML & Javascript
 
 ##See [Github repository](https://github.com/chnhaoli/DH2642_DinnerPlanner_Lab5)
 
-##See [Heroku deployment](http://obscure-oasis-61451.herokuapp.com/)
+##See [Heroku deployment](http://dinner-planner-hl-jjx.herokuapp.com/#!/home)
 
 ###Authors:
 	Hao LI (hao4@kth.se)
@@ -16,12 +16,9 @@ DH2642 Interaction Programing and Dynamic Wed - Lab 5 - HTML & Javascript
 
 ###Technologies:
 	1. HTML5
-	2. CSS3
-	3. [Bootstrap](http://getbootstrap.com/)
-	4. Javascript
-	5. [AngularJS](https://angularjs.org/)
-	6. [Firebase](https://firebase.google.com/)
-	7. [Heroku](https://www.heroku.com/platform)
+	2. [Bootstrap](http://getbootstrap.com/)
+	3. Javascript
+	4. [AngularJS](https://angularjs.org/)
 
 ###API usage:
 	[Spoonacular API](https://market.mashape.com/spoonacular/recipe-food-nutrition)
